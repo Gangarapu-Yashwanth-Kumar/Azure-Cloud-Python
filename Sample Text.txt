@@ -1,0 +1,18 @@
+Pydantic
+
+Subscription
+Azure subscription 1
+Resource group
+(New) AzureML
+Region
+East US 2
+Name
+AzureML
+Storage account
+(new) azureml7719782079
+Key vault
+(new) azureml6385620588
+Application insights
+(new) azureml1747730800
+Container registry
+None
